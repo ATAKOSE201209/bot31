@@ -25,4 +25,4 @@ async def makarnanasilyapilir(ctx):
 @bot.command
 async def akillitelefonlaaramayapma(ctx):
     await ctx.send("telefon uygulamasını aç.orda sayılar var oraya numaraları yaz")
-bot.run("MTEzNTI0OTA4NDk5NTg4MzEwOA.GFc3Wt.-XVQ0MhvqcwjZl6wrTLt-67dfp-8BlPPldMCy4")
+bot.run("write your token")
