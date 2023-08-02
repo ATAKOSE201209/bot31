@@ -1,2 +1,1 @@
-# bot31
-dasdasdsadsadcasd
+this bot is turkish language.bot for discord python.
